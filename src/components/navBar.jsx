@@ -1,5 +1,5 @@
-import s2 from '../../assets/s2.svg'
-import styles from '../../pages/LandPaging/Land.module.css';
+import s2 from '../assets/s2.svg'
+import styles from '../Land.module.css';
 
 import { Link } from 'react-router-dom'
 import  { useState } from "react";
